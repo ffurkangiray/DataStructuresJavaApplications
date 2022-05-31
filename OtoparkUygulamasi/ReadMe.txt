@@ -1,0 +1,1 @@
+Çift yönlü dairesel bağlı liste yapısı kullanılarak oluşturulmuş Node, Liste ve main classtan scanner ve Date kütüphaneleri yardımıyla oluşann otopark araç giriş çıkış bilgisi ve ücret hesabı yapan uygulamadır.
